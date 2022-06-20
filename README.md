@@ -3,16 +3,16 @@ I also build python packages and workflows to standardize and advance single-cel
 
 ## GitHub statistics
 
-[![Anna's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=annacuomo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anna's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=annacuomo&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Anna's Github stats](https://github-readme-stats.vercel.app/api?username=annacuomo&show_icons=true&hide_border=true&count_private=true)
-<!-- 
+
 ## Package maintainer
 
-| Package | Rank | Build |
-|:----------------:|:----------------:|:----------------:|
-| [_CellRegMap_](https://github.com/BodenmillerGroup/cytomapper) | [![](https://www.bioconductor.org/shields/downloads/release/cytomapper.svg)](https://bioconductor.org/packages/stats/bioc/cytomapper/) |[![](http://bioconductor.org/shields/build/release/bioc/cytomapper.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/cytomapper) |
-| [_imcRtools_](https://github.com/BodenmillerGroup/imcRtools) | [![](https://www.bioconductor.org/shields/downloads/release/imcRtools.svg)](https://bioconductor.org/packages/stats/bioc/imcRtools/) |[![](http://bioconductor.org/shields/build/release/bioc/imcRtools.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/imcRtools) | -->
+| Package | Webpage | Docs | Docker |
+|:----------------:|:----------------:|:----------------:| :----------------:|
+| [CellRegMap](https://github.com/limix/CellRegMap) | ![]([https://bioconductor.org/packages/stats/bioc/cytomapper/](https://limix.github.io/CellRegMap/)) |[![] |
+| [_imcRtools_](https://github.com/BodenmillerGroup/imcRtools)|
 
 <!-- 
 ## Workflow maintainer
@@ -24,12 +24,12 @@ I also build python packages and workflows to standardize and advance single-cel
 
 ## Analysis repositories
 
-| Repository | Year | 
-|:----------------:|:----------------:|
-| [_CellRegMap_publication_](https://github.com/annacuomo/CellRegMap_analyses) |  2021 |
-| [_sc-eQTL_guidelines_publication_](https://github.com/single-cell-genetics/optimising_singlecell_eqtl_paper) | 2021 |
-| [_Neuroseq_publication_](https://github.com/single-cell-genetics/singlecell_neuroseq_paper) | 2021 |
-| [_Endodiff_publication_](https://github.com/single-cell-genetics/singlecell_endodiff_paper) |  2020 |
+| Repository | Year | Data | 
+|:----------------:|:----------------:| :----------------:|
+| [_CellRegMap_publication_](https://github.com/annacuomo/CellRegMap_analyses) |  2021 | |
+| [_sc-eQTL_guidelines_publication_](https://github.com/single-cell-genetics/optimising_singlecell_eqtl_paper) | 2021 | | 
+| [_Neuroseq_publication_](https://github.com/single-cell-genetics/singlecell_neuroseq_paper) | 2021 | |
+| [_Endodiff_publication_](https://github.com/single-cell-genetics/singlecell_endodiff_paper) |  2020 | |
 
 
 <!-- ### Hi there 👋 -->
