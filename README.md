@@ -11,8 +11,7 @@ I also build python packages and workflows to standardize and advance single-cel
 
 | Package | Webpage | Docs | Docker |
 |:----------------:|:----------------:|:----------------:| :----------------:|
-| [CellRegMap](https://github.com/limix/CellRegMap) | ![]([https://bioconductor.org/packages/stats/bioc/cytomapper/](https://limix.github.io/CellRegMap/)) |[![] |
-| [_imcRtools_](https://github.com/BodenmillerGroup/imcRtools)|
+| [CellRegMap](https://github.com/limix/CellRegMap) | [Webpage](https://limix.github.io/CellRegMap/)) |[Docs (https://github.com/BodenmillerGroup/imcRtools)| []() |
 
 <!-- 
 ## Workflow maintainer
