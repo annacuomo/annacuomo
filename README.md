@@ -27,7 +27,7 @@ I also build python packages and workflows to standardize and advance single-cel
 |:----------------:|:----------------:| :----------------:|
 | [_CellRegMap_publication_](https://github.com/annacuomo/CellRegMap_analyses) |  2021 | |
 | [_sc-eQTL_guidelines_publication_](https://github.com/single-cell-genetics/optimising_singlecell_eqtl_paper) | 2021 | | 
-| [_Neuroseq_publication_](https://github.com/single-cell-genetics/singlecell_neuroseq_paper) | 2021 | |
+| [Neuroseq_publication](https://github.com/single-cell-genetics/singlecell_neuroseq_paper) | 2021 | [![doi 10.5281/zenodo.4651413](https://zenodo.org/badge/DOI/10.5281/zenodo.4651413.svg)](https://doi.org/10.5281/zenodo.4651413) |
 | [_Endodiff_publication_](https://github.com/single-cell-genetics/singlecell_endodiff_paper) |  2020 | |
 
 
