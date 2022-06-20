@@ -3,7 +3,9 @@ I also build python packages and workflows to standardize and advance single-cel
 
 ## GitHub statistics
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=annacuomo&show_icons=true&hide_border=true&count_private=true)
+[![Anna's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=annacuomo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anna's Github stats](https://github-readme-stats.vercel.app/api?username=annacuomo&show_icons=true&hide_border=true&count_private=true)
 <!-- 
 ## Package maintainer
 
