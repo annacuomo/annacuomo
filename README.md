@@ -4,6 +4,20 @@ I also build python packages and workflows to standardize and advance single-cel
 ## GitHub statistics
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=annacuomo&show_icons=true&hide_border=true&count_private=true)
+<!-- 
+## Package maintainer
+
+| Package | Rank | Build |
+|:----------------:|:----------------:|:----------------:|
+| [_CellRegMap_](https://github.com/BodenmillerGroup/cytomapper) | [![](https://www.bioconductor.org/shields/downloads/release/cytomapper.svg)](https://bioconductor.org/packages/stats/bioc/cytomapper/) |[![](http://bioconductor.org/shields/build/release/bioc/cytomapper.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/cytomapper) |
+| [_imcRtools_](https://github.com/BodenmillerGroup/imcRtools) | [![](https://www.bioconductor.org/shields/downloads/release/imcRtools.svg)](https://bioconductor.org/packages/stats/bioc/imcRtools/) |[![](http://bioconductor.org/shields/build/release/bioc/imcRtools.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/imcRtools) | -->
+
+## Workflow maintainer
+<!-- 
+| Workflow | Build | Website |
+|:----------------:|:----------------:|:----------------:|
+| [_IMCWorkflow_](https://github.com/BodenmillerGroup/IMCWorkflow) |  |[https://bodenmillergroup.github.io/IMCWorkflow/](https://bodenmillergroup.github.io/IMCWorkflow/) |
+| [_IMCDataAnalysis_](https://github.com/BodenmillerGroup/IMCDataAnalysis) | [![build](https://github.com/BodenmillerGroup/IMCDataAnalysis/actions/workflows/build.yml/badge.svg)](https://github.com/BodenmillerGroup/IMCDataAnalysis/actions/workflows/build.yml) |[https://github.com/BodenmillerGroup/IMCDataAnalysis](https://github.com/BodenmillerGroup/IMCDataAnalysis) | -->
 
 ## Analysis repositories
 
