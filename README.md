@@ -11,7 +11,7 @@ I also build python packages and workflows to standardize and advance single-cel
 
 | Package | Webpage | Docs | Docker |
 |:----------------:|:----------------:|:----------------:| :----------------:|
-| [CellRegMap](https://github.com/limix/CellRegMap) | [https://limix.github.io/CellRegMap/] | [Docs](https://cellregmap.readthedocs.io/) | [Docker](https://hub.docker.com/r/annasecuomo/cellregmap) |
+| [CellRegMap](https://github.com/limix/CellRegMap) | https://limix.github.io/CellRegMap/ | [ReadTheDocs](https://cellregmap.readthedocs.io/) | [DockerHub](https://hub.docker.com/r/annasecuomo/cellregmap) |
 
 <!-- 
 ## Workflow maintainer
