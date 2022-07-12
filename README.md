@@ -28,7 +28,7 @@ I also build python packages and workflows to standardize and advance single-cel
 | [CellRegMap_applications_publication](https://github.com/annacuomo/CellRegMap_analyses) |  2021 | |
 | [Single_cell_eQTL_guidelines_publication](https://github.com/single-cell-genetics/optimising_singlecell_eqtl_paper) | 2021 | [![doi 10.5281/zenodo.4915837](https://zenodo.org/badge/DOI/10.5281/zenodo.4915837.svg)](https://doi.org/10.5281/zenodo.4915837) | 
 | [Single_cell_neuronal_differentiation_publication](https://github.com/single-cell-genetics/singlecell_neuroseq_paper) | 2021 | [![doi 10.5281/zenodo.4651413](https://zenodo.org/badge/DOI/10.5281/zenodo.4651413.svg)](https://doi.org/10.5281/zenodo.4651413) |
-| [Single_cell_endoderm_differentiation_publication](https://github.com/single-cell-genetics/singlecell_endodiff_paper) |  2020 | [![doi 10.5281/zenodo.3625024](https://zenodo.org/badge/DOI/10.5281/zenodo.3625024.svg)]([https://doi.org/10.5281/zenodo.3625024](https://zenodo.org/record/3625024)) |
+| [Single_cell_endoderm_differentiation_publication](https://github.com/single-cell-genetics/singlecell_endodiff_paper) |  2020 | [![doi 10.5281/zenodo.3625024](https://zenodo.org/badge/DOI/10.5281/zenodo.3625024.svg)]([[https://doi.org/10.5281/zenodo.3625024](https://zenodo.org/record/3625024)]) |
 
 
 <!-- ### Hi there 👋 -->
