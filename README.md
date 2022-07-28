@@ -13,13 +13,11 @@ I also build python packages and workflows to standardize and advance single-cel
 |:----------------:|:----------------:|:----------------:| :----------------:|
 | [CellRegMap](https://github.com/limix/CellRegMap) | https://limix.github.io/CellRegMap/ | [ReadTheDocs](https://cellregmap.readthedocs.io/) | [DockerHub](https://hub.docker.com/r/annasecuomo/cellregmap) |
 
-<!-- 
 ## Workflow maintainer
 
-| Workflow | Build | Website |
-|:----------------:|:----------------:|:----------------:|
-| [_IMCWorkflow_](https://github.com/BodenmillerGroup/IMCWorkflow) |  |[https://bodenmillergroup.github.io/IMCWorkflow/](https://bodenmillergroup.github.io/IMCWorkflow/) |
-| [_IMCDataAnalysis_](https://github.com/BodenmillerGroup/IMCDataAnalysis) | [![build](https://github.com/BodenmillerGroup/IMCDataAnalysis/actions/workflows/build.yml/badge.svg)](https://github.com/BodenmillerGroup/IMCDataAnalysis/actions/workflows/build.yml) |[https://github.com/BodenmillerGroup/IMCDataAnalysis](https://github.com/BodenmillerGroup/IMCDataAnalysis) | -->
+| Workflow | Docker | 
+|:----------------:|:----------------:|
+| [CellregMap_pipeline](https://github.com/populationgenomics/CellRegMap_pipeline) | [DockerHub](https://hub.docker.com/r/annasecuomo/cellregmap_pipeline)|
 
 ## Analysis repositories
 
