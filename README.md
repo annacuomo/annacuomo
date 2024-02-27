@@ -1,5 +1,5 @@
 My work focuses on single-cell, genetic and genomic data analysis to understand environmental and genetic factors affecting molecular changes underlying complex traits and diseases. 
-I also build python packages and workflows to standardize and advance single-cell human genetics.
+I also build or contribute to both python and R packages and workflows to standardize and advance single-cell human genetics.
 
 ## GitHub statistics
 
