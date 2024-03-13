@@ -16,7 +16,7 @@ I also build or contribute to both python and R packages and workflows to standa
 ## Package contributor
 
 | Package | Docs | 
-|:----------------:|:----------------:|:----------------:| :----------------:|
+|:----------------:|:----------------:|
 | [SAIGE-QTL]([https://github.com/limix/CellRegMap](https://github.com/weizhou0/qtl)) | https://weizhou0.github.io/SAIGE-QTL-doc/ |
 
 ## Workflow maintainer
