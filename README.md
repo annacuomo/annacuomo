@@ -23,6 +23,7 @@ I also build or contribute to both python and R packages and workflows to standa
 
 | Repository | Year | Data | 
 |:----------------:|:----------------:| :----------------:|
+| [SAIGE-QTL_applications_publication](https://github.com/annacuomo/SAIGE_QTL_analyses/) |  2024 | |
 | [CellRegMap_applications_publication](https://github.com/annacuomo/CellRegMap_analyses) |  2022 | |
 | [Single_cell_eQTL_guidelines_publication](https://github.com/single-cell-genetics/optimising_singlecell_eqtl_paper) | 2021 | [![doi 10.5281/zenodo.4915837](https://zenodo.org/badge/DOI/10.5281/zenodo.4915837.svg)](https://doi.org/10.5281/zenodo.4915837) | 
 | [Single_cell_neuronal_differentiation_publication](https://github.com/single-cell-genetics/singlecell_neuroseq_paper) | 2021 | [![doi 10.5281/zenodo.4651413](https://zenodo.org/badge/DOI/10.5281/zenodo.4651413.svg)](https://doi.org/10.5281/zenodo.4651413) |
