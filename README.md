@@ -10,14 +10,14 @@ I also build or contribute to both python and R packages and workflows to standa
 ## Package maintainer
 
 | Package | Webpage | Docs | Docker |
-|:----------------:|:----------------:|:----------------:| :----------------:|
-| [CellRegMap](https://github.com/limix/CellRegMap) | https://limix.github.io/CellRegMap/ | [ReadTheDocs](https://cellregmap.readthedocs.io/) | [DockerHub](https://hub.docker.com/r/annasecuomo/cellregmap) |
+|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|
+| [CellRegMap](https://github.com/limix/CellRegMap) | https://limix.github.io/CellRegMap/ | [ReadTheDocs](https://cellregmap.readthedocs.io/) | [DockerHub](https://hub.docker.com/r/annasecuomo/cellregmap) | [Paper](https://www.embopress.org/doi/full/10.15252/msb.202110663) |
 
 ## Package contributor
 
 | Package | Docs | Webpage |
-|:----------------:|:----------------:|:----------------:|
-| [SAIGE-QTL](https://github.com/weizhou0/qtl) | [GitHub Docs](https://github.com/weizhou0/SAIGE-QTL-doc) | [Docs webpage](https://weizhou0.github.io/SAIGE-QTL-doc/) |
+|:----------------:|:----------------:|:----------------:|:----------------:|
+| [SAIGE-QTL](https://github.com/weizhou0/qtl) | [GitHub Docs](https://github.com/weizhou0/SAIGE-QTL-doc) | [Docs webpage](https://weizhou0.github.io/SAIGE-QTL-doc/) | [Preprint](https://www.medrxiv.org/content/10.1101/2024.05.15.24307317v1) |
 
 ## Workflow maintainer
 
