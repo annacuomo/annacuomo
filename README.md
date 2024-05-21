@@ -11,7 +11,7 @@ I also build or contribute to both python and R packages and workflows to standa
 
 | Package | Webpage | Docs | Docker | Paper |
 |:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|
-| [CellRegMap](https://github.com/limix/CellRegMap) | https://limix.github.io/CellRegMap/ | [ReadTheDocs](https://cellregmap.readthedocs.io/) | [DockerHub](https://hub.docker.com/r/annasecuomo/cellregmap) | [Paper](https://www.embopress.org/doi/full/10.15252/msb.202110663) |
+| [CellRegMap](https://github.com/limix/CellRegMap) | [CellRegMap webpage](https://limix.github.io/CellRegMap/) | [ReadTheDocs](https://cellregmap.readthedocs.io/) | [DockerHub](https://hub.docker.com/r/annasecuomo/cellregmap) | [Paper](https://www.embopress.org/doi/full/10.15252/msb.202110663) |
 
 ## Package contributor
 
