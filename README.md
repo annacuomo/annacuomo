@@ -29,8 +29,8 @@ I also build or contribute to both python and R packages and workflows to standa
 
 | Repository | Year | Data | 
 |:----------------:|:----------------:| :----------------:|
-| [TenK10K phase 1_analyses](https://github.com/powellgenomicslab/tenk10k_phase1) | 2025 | |
-| [SAIGE-QTL pipeline TenK10K phase 1](https://github.com/populationgenomics/saige-tenk10k) | 2024 | |
+| [TenK10K_phase_1_analyses](https://github.com/powellgenomicslab/tenk10k_phase1) | 2025 | |
+| [SAIGE-QTL_pipeline_TenK10K_phase_1](https://github.com/populationgenomics/saige-tenk10k) | 2024 | |
 | [SAIGE-QTL_applications_publication](https://github.com/annacuomo/SAIGE_QTL_analyses) |  2024 | [Zenodo record 10811106](https://zenodo.org/records/10811106)|
 | [CellRegMap_applications_publication](https://github.com/annacuomo/CellRegMap_analyses) |  2022 | |
 | [Single_cell_eQTL_guidelines_publication](https://github.com/single-cell-genetics/optimising_singlecell_eqtl_paper) | 2021 | [![doi 10.5281/zenodo.4915837](https://zenodo.org/badge/DOI/10.5281/zenodo.4915837.svg)](https://doi.org/10.5281/zenodo.4915837) | 
